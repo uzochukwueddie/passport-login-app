@@ -1,0 +1,16 @@
+body {
+    height: auto;
+}
+
+.container {
+    margin-top: 150px;
+}
+
+.fa-node-js {
+    color: green;
+}
+
+a, a:hover {
+    color: blue;
+    text-decoration: none;
+}
